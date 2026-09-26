@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ac167df-c5b9-4529-8b74-acb0a0d4e865",
+  "path": "improve-codebase-architecture-4",
+  "path_key": "improve-codebase-architecture-4",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/improve-codebase-architecture",
+    "subpath": "skills\\engineering\\improve-codebase-architecture",
+    "branch": null
+  }
+}

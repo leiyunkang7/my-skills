@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dacad2da-2dc6-4599-ad69-45b619e50225",
+  "path": "writing-beats-2",
+  "path_key": "writing-beats-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/writing-beats",
+    "subpath": "skills\\in-progress\\writing-beats",
+    "branch": null
+  }
+}

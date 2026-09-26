@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e34eab13-da34-4a9f-8a8e-56eec6855f7c",
+  "path": "setup-ts-deep-modules-2",
+  "path_key": "setup-ts-deep-modules-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/setup-ts-deep-modules",
+    "subpath": "skills\\in-progress\\setup-ts-deep-modules",
+    "branch": null
+  }
+}

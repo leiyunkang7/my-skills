@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30d1e84f-8923-438f-a881-0099a2cd9ca2",
+  "path": "loop-me-2",
+  "path_key": "loop-me-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/loop-me",
+    "subpath": "skills\\in-progress\\loop-me",
+    "branch": null
+  }
+}
