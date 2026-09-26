@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6632a3e5-3831-4947-a529-9681d31d350f",
+  "path": "destructive-ops-with-confirmation",
+  "path_key": "destructive-ops-with-confirmation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

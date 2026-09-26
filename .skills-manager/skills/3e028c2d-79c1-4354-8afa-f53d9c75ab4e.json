@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e028c2d-79c1-4354-8afa-f53d9c75ab4e",
+  "path": "clash-proxy-api",
+  "path_key": "clash-proxy-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

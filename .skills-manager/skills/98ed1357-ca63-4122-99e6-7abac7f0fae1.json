@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98ed1357-ca63-4122-99e6-7abac7f0fae1",
+  "path": "codemap",
+  "path_key": "codemap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7c7639d-58f0-4def-b0d1-6523c7dc27a9",
+  "path": "clonedeps",
+  "path_key": "clonedeps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

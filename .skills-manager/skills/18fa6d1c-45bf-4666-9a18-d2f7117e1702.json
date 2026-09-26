@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "18fa6d1c-45bf-4666-9a18-d2f7117e1702",
+  "path": "oh-my-opencode-slim",
+  "path_key": "oh-my-opencode-slim",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

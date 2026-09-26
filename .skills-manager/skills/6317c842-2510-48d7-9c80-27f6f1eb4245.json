@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6317c842-2510-48d7-9c80-27f6f1eb4245",
+  "path": "writing-for-agents-2",
+  "path_key": "writing-for-agents-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

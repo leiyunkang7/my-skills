@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c4c839d-cce3-4e15-a5d5-7c40855857dc",
+  "path": "to-spec-3",
+  "path_key": "to-spec-3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

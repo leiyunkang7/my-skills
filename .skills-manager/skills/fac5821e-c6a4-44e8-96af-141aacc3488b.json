@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fac5821e-c6a4-44e8-96af-141aacc3488b",
+  "path": "verification-planning",
+  "path_key": "verification-planning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

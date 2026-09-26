@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39de78fb-3739-40cd-9e04-a7f51166a43a",
+  "path": "setup-matt-pocock-skills-2",
+  "path_key": "setup-matt-pocock-skills-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

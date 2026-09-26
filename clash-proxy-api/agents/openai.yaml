@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash Proxy API"
+  short_description: "Inspect & control Clash/mihomo: node, mode, TUN, system proxy"
+  default_prompt: "Use $clash-proxy-api to check my current Clash/mihomo status and switch or adjust my proxy."
